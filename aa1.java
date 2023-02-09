@@ -4,5 +4,7 @@ class aa1
     {
         System.out.println("hi viswa...");
         System.out.println("This is rex");
+        int a=10;
+        System.out.println(a);
     }
 }
